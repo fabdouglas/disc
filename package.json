@@ -38,7 +38,7 @@
     "browserify": "~2.25.1",
     "rework": "~0.17.2",
     "clean-css": "~1.0.12",
-    "uglify-js": "~2.3.6",
+    "uglify-js": "~3.10.1",
     "btoa": "~1.1.1"
   },
   "keywords": [
