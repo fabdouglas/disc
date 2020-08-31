@@ -34,7 +34,7 @@
     "prettysize": "0.0.3",
     "domready": "~0.2.12",
     "d3": "~3.2.7",
-    "marked": "~0.2.9",
+    "marked": "~1.1.1",
     "browserify": "~2.25.1",
     "rework": "~0.17.2",
     "clean-css": "~1.0.12",
